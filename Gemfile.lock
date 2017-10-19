@@ -12,5 +12,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport (= 3.2.19)
+  activesupport (>= 3.2.19)
   fastercsv (>= 1.2.3)
